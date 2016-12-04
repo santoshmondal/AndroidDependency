@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527351698952",
+    "project_id": "jauditor-151408"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527351698952:android:8d69b50bd4a3fce3",
+        "android_client_info": {
+          "package_name": "com.affixus.jauditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527351698952-v69pnbf2fpplhbchl9levltqf862qv0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.affixus.jauditor",
+            "certificate_hash": "64E04F71F71EFB26CEA2C33AA52315C34D660DCA"
+          }
+        },
+        {
+          "client_id": "527351698952-iu6uti3bgfpp2k9gsb1t4i5rg87vmp0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZ-ZaeA7MYckIgeY-X0Md-tojAOjR8Q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
